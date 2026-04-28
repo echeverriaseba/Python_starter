@@ -1,0 +1,18 @@
+# -*- coding: utf-8 -*-
+"""
+Spyder Editor
+
+This is a temporary script file.
+"""
+
+def hello():
+    """Print "Hello World" and return None."""
+    print("Hello World")
+
+    
+# Main program starts here
+hello()
+
+dir() # Inspecting objects defined in the Console
+
+help(hello) # Returns the additional information included as documentation string in the function
